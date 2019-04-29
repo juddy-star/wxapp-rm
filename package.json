@@ -1,0 +1,31 @@
+{
+  "name": "wxapp-rm",
+  "version": "1.0.0",
+  "description": "微信小程序-移除冗余",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juddy-star/wxapp-rm.git"
+  },
+  "scripts": {
+    "start": "node scripts/executePackage/index.js"
+  },
+  "keywords": [
+    "wxapp",
+    "rm"
+  ],
+  "author": "juddy-star",
+  "email": "654312777@qq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juddy-star/wxapp-rm/issues"
+  },
+  "homepage": "https://github.com/juddy-star/wxapp-rm#readme",
+  "devDependencies": {
+    "chalk": "^2.4.2",
+    "table": "^5.2.3"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.4"
+  }
+}
