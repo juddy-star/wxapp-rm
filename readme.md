@@ -1,4 +1,4 @@
-# wxapp-gulp 微信小程序-移除冗余文件
+# wxapp-rm 微信小程序-移除冗余文件
 
 ## features
 
